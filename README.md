@@ -3,6 +3,9 @@
 <h1 align="center">ポケモン図鑑を作りたい</h1>
 &nbsp;
 <h3 align="center">1．検索機能</h3>
-- 🔭 I’m currently working on **Potepan style** - 🌱 I’m currently learning **Python** - 💬 Ask me about **vue**
-<h3 align="left">Languages and Tools:</h3>
+- 名前から検索 
+- - 図鑑番号から検索 
+- - タイプや特性から一致したポケモンをリストで表示 
+- - 種族値や大きさや重さからなどの色んな情報から検索できるようにしたい
+<h3 align="center">2．卵技ルート検索機能</h3>
 &nbsp;
